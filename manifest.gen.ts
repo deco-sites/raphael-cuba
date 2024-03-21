@@ -13,18 +13,18 @@ import * as $$$$$$$4 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "deco-sites/start/sections/Footer.tsx": $$$$$$$0,
-    "deco-sites/start/sections/Hero.tsx": $$$$$$$1,
-    "deco-sites/start/sections/myHero.tsx": $$$$$$$5,
-    "deco-sites/start/sections/ParagraphList.tsx": $$$$$$$2,
-    "deco-sites/start/sections/SimpleTextList.tsx": $$$$$$$3,
-    "deco-sites/start/sections/Theme/Theme.tsx": $$$$$$$4,
+    "deco-sites/raphael-cuba/sections/Footer.tsx": $$$$$$$0,
+    "deco-sites/raphael-cuba/sections/Hero.tsx": $$$$$$$1,
+    "deco-sites/raphael-cuba/sections/myHero.tsx": $$$$$$$5,
+    "deco-sites/raphael-cuba/sections/ParagraphList.tsx": $$$$$$$2,
+    "deco-sites/raphael-cuba/sections/SimpleTextList.tsx": $$$$$$$3,
+    "deco-sites/raphael-cuba/sections/Theme/Theme.tsx": $$$$$$$4,
   },
   "apps": {
-    "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$$0,
-    "deco-sites/start/apps/site.ts": $$$$$$$$$$$$1,
+    "deco-sites/raphael-cuba/apps/decohub.ts": $$$$$$$$$$$$0,
+    "deco-sites/raphael-cuba/apps/site.ts": $$$$$$$$$$$$1,
   },
-  "name": "deco-sites/start",
+  "name": "deco-sites/raphael-cuba",
   "baseUrl": import.meta.url,
 };
 
